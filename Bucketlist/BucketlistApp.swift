@@ -9,6 +9,7 @@ import SwiftUI
 
 @main
 struct BucketlistApp: App {
+//    let networkService = NetworkService()
     var body: some Scene {
         WindowGroup {
             ContentView()
